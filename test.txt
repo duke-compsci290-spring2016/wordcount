@@ -1,0 +1,5 @@
+This is a test of your bug-fixing ability!
+you should correctly get the following:
+5 lines 22 words 118 chars
+foo
+foo

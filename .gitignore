@@ -31,3 +31,24 @@
 # mac
 .DS_Store
 
+# vim
+*.swp
+
+# autoconf
+ABOUT-NLS
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+libtool
+config/
+config.log
+config.status
+configure
+install-sh
+missing
+.deps/
+.libs/
+*.o
+*.lo
+
